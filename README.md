@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 chichi88lyangenda@gmail.com
 <!---
-chichi88lyang/chichi88lyang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+chichi88lyang/chichi88lyang is a highly trained web and App developer by Dr Asante Joseph. His aim is to be a white hat.
+
 --->
