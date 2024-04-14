@@ -7,7 +7,7 @@
 ### <div align="center">I'm Chisenga Lyangenda, alx_africa software engineer student 👨‍💻 studying software engineering since 14th March, 2022 🚀</div>  
   
 
-- 🔭 I’m currently working on [Focus-Tec website](https://chichi88lyang.github.io/Focus-Tec/)  
+- 🔭 I’m currently working on [Focus-Tec website](https://chichi88lyang.github.io/Focus-Tech/)  
   
 
 - 🌱 I’m currently learning C, Python and JS programming languages  
