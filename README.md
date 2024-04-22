@@ -4,13 +4,13 @@
 <img src="https://chichi88lyang.github.io/static/images/greetings.gif" align="left" style="width: 100%" />  
   
 
-### <div align="center">I'm Chisenga Lyangenda, alx_africa software engineer student 👨‍💻 studying software engineering since 14th March, 2022 🚀</div>  
+### <div align="center">I'm Chisenga Lyangenda, a software engineer  👨‍💻  since 14th March, 2022 🚀</div>  
   
 
 - 🔭 I’m currently working on [Focus-Tec website](https://chichi88lyang.github.io/Focus-Tech/)  
   
 
-- 🌱 I’m currently learning C, Python and JS programming languages  
+- 🌱 I now develop projects in C, Python and JS and other programming languages 
   
 
 - ❓ Ask me about anything related to software engineering, C, JS or Python languages.  
