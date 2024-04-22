@@ -7,7 +7,7 @@
 ### <div align="center">I'm Chisenga Lyangenda, a software engineer  👨‍💻  since 14th March, 2022 🚀</div>  
   
 
-- 🔭 I’m currently working on [Focus-Tec website](https://chichi88lyang.github.io/Focus-Tech/)  
+- 🔭 More about me on [Focus-Tec website](https://chichi88lyang.github.io/Focus-Tech/)  
   
 
 - 🌱 I now develop projects in C, Python and JS and other programming languages 
