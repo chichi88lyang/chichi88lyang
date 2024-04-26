@@ -4,7 +4,7 @@
 <img src="https://chichi88lyang.github.io/static/images/greetings.gif" align="left" style="width: 100%" />  
   
 
-### <div align="center">I'm Chisenga Lyangenda, a software engineer  👨‍💻  since 14th March, 2022 🚀</div>  
+### <div align="center">I'm Focus Lyangenda, a software engineer  👨‍💻  since 14th March, 2022 🚀</div>  
   
 
 - 🔭 More about me on [Focus-Tec website](https://chichi88lyang.github.io/Focus-Tech/)  
