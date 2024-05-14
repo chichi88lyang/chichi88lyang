@@ -7,7 +7,7 @@
 ### <div align="center">I'm Focus Lyangenda, a software engineer  👨‍💻  since 14th March, 2022 🚀</div>  
   
 
-- 🔭 More about me on [Focus Tech website](https://chichi88lyang.github.io/KYD_Org/) but still under modification
+- 🔭 More about me on [Focus Tech website]( https://chichi88lyang.github.io/Focus-Tec/) but still under modification
 - I am currently working on [KYD_Org web project](https://chichi88lyang.github.io/KYD_Org/) kindly help with any advancement that can be made to this wedsite.
   
 
