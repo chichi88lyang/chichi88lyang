@@ -1,9 +1,7 @@
-
-
 ### TEAM WORK IS MY BLOODLINE  
 <img src="https://chichi88lyang.github.io/static/images/greetings.gif" align="left" style="width: 100px"/>  
 
-### <div align="center">I'm Chisenatambu Lyangenda, a software engineer  👨‍💻  since 14th March, 2021 🚀</div>  
+### <div align="center">I'm Focus Lyangenda, a software engineer  👨‍💻  since 14th March, 2021 🚀</div>  
 - 🌱 I studied Computer Science at Unicaf University Zambia software engineerin at ALX Africa software engineering school.
 
 - 🔭 More about me on [Focus Tech website]( https://chichi88lyang.github.io/Focus-Tec/) but still under modification
